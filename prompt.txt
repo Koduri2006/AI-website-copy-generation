@@ -1,0 +1,38 @@
+Act as a professional website copywriter and marketing expert.
+
+Create a complete website copy for a local business.
+
+Business Details:
+
+* Business Name: [Enter Name]
+* Location: [Enter City]
+* Target Audience: [Enter Audience]
+* Services: [Enter Services]
+* Unique Selling Point: [Enter USP]
+
+Output Format:
+
+1. Homepage
+
+   * Headline
+   * Subheadline
+   * About Section
+   * Key Benefits
+
+2. Services Section (3–5 services with descriptions)
+
+3. Why Choose Us (3–4 points)
+
+4. Call-To-Action (CTA)
+
+Tone:
+
+* Simple and persuasive
+* Customer-focused
+* Suitable for local audience
+
+Constraints:
+
+* Keep it clear and engaging
+* Use easy language
+* Make it SEO-friendly
